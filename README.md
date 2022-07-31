@@ -1,5 +1,4 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-
 [![Build Status](https://dnvgl-one.visualstudio.com/Veracity/_apis/build/status/ECO-Test/ECO-Automation%20UI%20Test_CI?branchName=develop)](https://dnvgl-one.visualstudio.com/Veracity/_build/latest?definitionId=406&branchName=develop)
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
